@@ -1,5 +1,5 @@
 # uartBatLockReverse
-An attempt to reverse engineer the UART-commands needed to open an electronic battery lock. This lock was extracted from a demo/prototype sharing e-bike that my previous employer generosly gifted me. 
+An attempt to reverse engineer the UART-commands needed to open an electronic battery lock. This lock was extracted from a demo/prototype sharing e-bike that my previous employer generously gifted me. 
 
 ---
 

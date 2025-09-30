@@ -1,4 +1,8 @@
 # uartBatLockReverse
+An attempt to reverse engineer the UART-commands needed to open an electronic battery lock. This lock was extracted from a demo/prototype sharing e-bike that my previous employer generosly gifted me. 
+
+---
+
 This repository consists of a bin file extracted from a microcontroller of an e-bike battry lock and an .svd file. 
 
 The bin file was extracted using a [STLINK-V3](https://www.st.com/en/development-tools/stlink-v3set.html) modular in-circuit debugger and programmer for STM32/STM8. 
